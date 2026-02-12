@@ -1,1 +1,4 @@
 # Land-Scene-Classification-and-caption-generation
+This project focuses on classifying aerial images using the AID dataset and generating meaningful captions for them. The classification model categorizes images into different land-use classes, helping in understanding and analyzing large-scale satellite imagery.
+Additionally, BLIP (Bootstrapped Language-Image Pretraining) is used for automatic caption generation, providing descriptive textual insights about the images. This combination of classification and captioning enhances the interpretability of aerial imagery, making it useful for urban planning, environmental monitoring, and geospatial analysis.
+Additionally, green area percentage detection helps in environmental analysis by quantifying vegetation coverage in an image, making the project valuable for urban planning, deforestation monitoring, and ecological studies.
